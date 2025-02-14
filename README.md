@@ -1,5 +1,5 @@
-![Profile views](https://github.com/hemant-kushwaha/hemant-kushwaha/blob/main/github-header-image%20(5)_enhanced.png)
-
+![Header](https://github.com/hemant-kushwaha/hemant-kushwaha/blob/main/github-header-image%20(5)_enhanced.png)
+![Profile views](https://komarev.com/ghpvc/?username=hemant-kushwaha&label=Profile%20views&color=0e75b6&style=flat)
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
