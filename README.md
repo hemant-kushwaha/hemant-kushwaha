@@ -1,4 +1,4 @@
-![Profile views](![Profile views](https://github.com/hemant-kushwaha/hemant-kushwaha/blob/main/github-header-image%20(2).png)
+![Profile views](https://github.com/hemant-kushwaha/hemant-kushwaha/blob/main/github-header-image%20(2).png)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
